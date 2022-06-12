@@ -1,5 +1,7 @@
 # okicrawler
-Python based Data Mining / Crawler for Okinawa Food &amp; Living App
+
+# Python based Data Mining / Crawler for Okinawa Food &amp; Living App
+
 
 1. Running Instructions.
     * Python 3.8 or Higher Version Required
