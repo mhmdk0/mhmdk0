@@ -1,7 +1,7 @@
 # okicrawler
 Python based Data Mining / Crawler for Okinawa Food &amp; Living App
 
-1. Running Instructions
+1. Running Instructions.
     * Python 3.8 or Higher Version Required
     * Running The Crawler Will Install All The Required Modules.
 
@@ -17,20 +17,20 @@ Python based Data Mining / Crawler for Okinawa Food &amp; Living App
 
     python okicrawler.py option1 option2 optionX
 
-    --without-images Scrapes The Data Without Images URLs.(Default is With Images)
+        --without-images Scrapes The Data Without Images URLs.(Default is With Images)
 
-    --without-reviews Scrapes The Data Without Reviews Content.(Default is With Reviews)
+        --without-reviews Scrapes The Data Without Reviews Content.(Default is With Reviews)
 
-    --images-number Followed By X digit(s), To Scrape X Number(s) Of Images' URLs.(Default is 10)
+        --images-number Followed By X digit(s), To Scrape X Number(s) Of Images' URLs.(Default is 10)
 
-    --reviews-number Followed By X digit(s), To Scrape X Number(s) Of Reviews' Content.(Default is 10)
+        --reviews-number Followed By X digit(s), To Scrape X Number(s) Of Reviews' Content.(Default is 10)
 
-    --max-tries Followed By X digit(s), Number of Tries If The Category/Place Raises an Error.(Default is 2)
+        --max-tries Followed By X digit(s), Number of Tries If The Category/Place Raises an Error.(Default is 2)
 
-    --headless Starts The Driver in Headless Mode.(Default is non-headless)
+        --headless Starts The Driver in Headless Mode.(Default is non-headless)
 
-    --no-sandbox Fixes Issues When Running On Linux
+        --no-sandbox Fixes Issues When Running On Linux
 
-    --help Views This Help Message.
+        --help Views This Help Message.
 
-    "To Scrape With Images, With Reviews, in non-headless Mode, get 10 Reviews and Images URLs, and 2 Maximum Tries; Don't pass any arguments."
+    "To Scrape With Images, With Reviews, in non-headless Mode, get 10 Reviews and Images URLs, and 2 Maximum Tries; Don't Pass Any Arguments."
